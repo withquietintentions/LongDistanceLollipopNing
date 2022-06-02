@@ -5,11 +5,7 @@ Prototype of two lollipops that when licked, generate different audio tracks. A 
 
 This project uses:
 
- MKR1010
- VS1053
- 2 Joystics
- OLED display
- Button
+ MKR1010, VS1053, 2 Joystics, OLED display, Button
  
 <img src="https://github.com/withquietintentions/LongDistanceLollipopNing/blob/main/NingInstallStill.jpg"
      alt="Still Image"
