@@ -10,6 +10,6 @@ This project uses:
 <img src="https://github.com/withquietintentions/LongDistanceLollipopNing/blob/main/NingInstallStill.jpg"
      alt="Still Image"
      style="width: 500px; height:AUTO; margin-left: 10px;" />
-     <img src="https://github.com/withquietintentions/NingProgressStill/blob/main/NingInstallStill.jpg"
+     <img src="https://github.com/withquietintentions/LongDistanceLollipopNing/blob/main/NingProgressStill.jpg"
      alt="Still Image"
      style="width: 500px; height:AUTO; margin-left: 10px;" />
